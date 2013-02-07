@@ -16,6 +16,25 @@ You can use it to:
 1. Display images, text, HTML files on the local network.  
 2. Share files.  
 
-##Install
+##Download
 
+[OSX 64 bit](go-sharefiles/sharefiles-osx-64bit)
 
+[Linux 64 bit](go-sharefiles/sharefiles-linux-64bit)
+
+##Build
+
+To build from source, you need ![Go](http://golang.org/) installed.  
+
+1. Download this repository.
+
+2. In the Terminal window, type:
+
+    go build sharefiles.go
+    
+3. Run by typing
+
+    ./sharefiles    (Mac, Linux)
+    
+    sharefiles      (Windows)
+    
