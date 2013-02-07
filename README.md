@@ -3,6 +3,7 @@ go-sharefiles
 
 A program for sharing files with other machines through the browser.  
 BSD license.  
+For version log and license, see the individual files.  
 
 ShareFiles
 
